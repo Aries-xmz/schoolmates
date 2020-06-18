@@ -1,0 +1,8 @@
+/**
+  + Project-wide Gradle configuration properties
+  */
+ext {
+    compileSdkVersion   = 27
+    targetSdkVersion    = 27
+    buildToolsVersion   = "27.0.3"
+}
